@@ -1,0 +1,172 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.clubsoda{
+    overflow-x: hidden;
+   
+}
+
+nav {
+
+
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 7rem;
+    background-color: white;
+    padding: 1.3rem;
+    align-items: center;
+}
+
+.main {
+    margin-left: 7rem;
+    font-size: 2rem;
+}
+
+.user {
+    margin-right: 7rem;
+}
+
+/* body */
+section {
+    margin: 0px 10%;
+   
+
+}
+
+
+.user i {
+    font-size: 1.5rem;
+
+
+}
+
+.image1 {
+    height: 25rem;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-image: url(https://joinclubsoda.com/wp-content/uploads/2020/12/Welcome-to-Club-Soda-drink-mindfully-and-live-well.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    border-radius: 10px;
+    
+
+
+}
+
+.image1content {
+    background-color: white;
+    font-weight: bolder;
+    font-size: 3rem;
+    padding: 1rem;
+}
+
+.image1content span {
+    color: #E30A5E;
+}
+.content1{
+    margin-top: 2rem;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    color: #756F84;
+    line-height: 1.8em;
+    font-weight: 200;
+}
+.content1 .btn{
+    background-color: #E30A5E;
+    color: white;
+    font-weight: 400;
+    padding: 1rem;
+}
+.content2{
+    margin-top: 5rem;
+}
+.content2 p{
+    margin-top: 2rem;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    color: #756F84;
+    line-height: 1.8em;
+    font-weight: 200;
+}
+
+.picsection p{
+    font-family: 'Merriweather', serif;
+    font-size: 18px;
+    color: #756F84;
+    line-height: 1.8em;
+    font-weight: 200;
+    text-align:left
+
+}
+.picsection .btn{
+    background-color: #E30A5E;
+    color: white;
+    font-weight: 400;
+    padding: 1rem;
+
+}
+.caurasol .buttn{
+    background-color:  #E30A5E;
+    color: white;
+    border-radius: 8px;
+    height: 3em;
+    width: 15em;}
+
+footer{
+    width: 100vw;
+    background-color: #465F63;
+    color: white;
+
+    
+}
+footer .buttn{
+    background-color:  #E30A5E;
+    color: white;
+    border-radius: 8px;
+    height: 3em;
+    width: 25em;}
+
+.icons{
+    gap: 2rem;
+}
+#mySidebar{
+    color: #E30A5E;
+    font-size: large;
+    width: 25%;
+   
+   line-height: 2rem;
+   padding-top: 2rem;
+   border-style: none;
+   background-color:white;
+   background: none;
+       background: aliceblue;
+}
+
+.carsol{
+    background: #E0E0E0;
+}
+ .carsol p{
+    font-family: 'Merriweather', serif;
+    font-size: 18px;
+    color: #756F84;
+    line-height: 1.8em;
+    font-weight: 200;
+    text-align:left
+    
+
+
+ }
+ .carsol .btn{
+    background-color:  #E30A5E;
+    color: white;
+    border-radius: 8px;
+    padding-top: 2px;   
+    text-align: center;
+    
+ }
